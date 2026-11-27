@@ -1,0 +1,29 @@
+[
+  {"id":"prothomalo","name":"প্রথম আলো","region":"bd","kind":"news","url":"https://www.prothomalo.com/feed"},
+  {"id":"banglatribune","name":"বাংলা ট্রিবিউন","region":"bd","kind":"news","url":"https://www.banglatribune.com/feed"},
+  {"id":"dhakatribune","name":"Dhaka Tribune","region":"bd","kind":"news","url":"https://www.dhakatribune.com/feed"},
+  {"id":"thedailystar","name":"The Daily Star","region":"bd","kind":"news","url":"https://www.thedailystar.net/frontpage/rss.xml"},
+  {"id":"bdnews24","name":"বিডিনিউজ২৪","region":"bd","kind":"news","url":"https://bangla.bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true"},
+  {"id":"kalerkantho","name":"কালের কণ্ঠ","region":"bd","kind":"news","url":"https://www.kalerkantho.com/rss.xml"},
+  {"id":"jugantor","name":"যুগান্তর","region":"bd","kind":"news","url":"https://www.jugantor.com/feed/rss.xml"},
+  {"id":"samakal","name":"সমকাল","region":"bd","kind":"news","url":"https://samakal.com/rss.xml"},
+  {"id":"ittefaq","name":"ইত্তেফাক","region":"bd","kind":"news","url":"https://www.ittefaq.com.bd/feed"},
+  {"id":"bdpratidin","name":"বাংলাদেশ প্রতিদিন","region":"bd","kind":"news","url":"https://www.bd-pratidin.com/rss.xml"},
+  {"id":"tbsnews","name":"The Business Standard","region":"bd","kind":"news","url":"https://www.tbsnews.net/rss.xml"},
+  {"id":"dhakapost","name":"ঢাকা পোস্ট","region":"bd","kind":"news","url":"https://www.dhakapost.com/rss/rss.xml"},
+  {"id":"jagonews","name":"জাগো নিউজ","region":"bd","kind":"news","url":"https://www.jagonews24.com/rss/rss.xml"},
+
+  {"id":"bbcbangla","name":"বিবিসি বাংলা","region":"both","kind":"news","url":"https://feeds.bbci.co.uk/bengali/rss.xml"},
+  {"id":"dwbangla","name":"ডিডব্লিউ বাংলা","region":"both","kind":"news","url":"https://rss.dw.com/rdf/rss-bn-all"},
+
+  {"id":"bbcworld","name":"BBC News","region":"world","kind":"news","url":"https://feeds.bbci.co.uk/news/world/rss.xml"},
+  {"id":"aljazeera","name":"Al Jazeera","region":"world","kind":"news","url":"https://www.aljazeera.com/xml/rss/all.xml"},
+  {"id":"guardian","name":"The Guardian","region":"world","kind":"news","url":"https://www.theguardian.com/world/rss"},
+  {"id":"dwen","name":"DW News","region":"world","kind":"news","url":"https://rss.dw.com/rdf/rss-en-world"},
+  {"id":"npr","name":"NPR","region":"world","kind":"news","url":"https://feeds.npr.org/1004/rss.xml"},
+  {"id":"nyt","name":"The New York Times","region":"world","kind":"news","url":"https://rss.nytimes.com/services/xml/rss/nyt/World.xml"},
+  {"id":"france24","name":"France 24","region":"world","kind":"news","url":"https://www.france24.com/en/rss"},
+
+  {"id":"rumorscanner","name":"Rumor Scanner","region":"bd","kind":"factcheck","url":"https://rumorscanner.com/feed"},
+  {"id":"dismislab","name":"Dismislab","region":"bd","kind":"factcheck","url":"https://en.dismislab.com/feed/"}
+]
